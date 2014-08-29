@@ -1,3 +1,5 @@
+package com.algospot;
+
 import java.util.Scanner;
 
 public class Endians {
